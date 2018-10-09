@@ -1,0 +1,5 @@
+# Configure the following to whatever you want
+
+NumberOfHoursBetweenEmails: 24
+CurrentEmailNumber: 1
+
